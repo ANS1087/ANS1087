@@ -16,3 +16,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=ANS1087&theme=onedark&no-frame=false&no-bg=true&margin-w=4)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+[![](https://visitcount.itsvg.in/api?id=ANS1087&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
