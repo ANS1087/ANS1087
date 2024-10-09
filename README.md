@@ -21,7 +21,7 @@ Hyper Reality Studio Pvt. Ltd. (May 2023 - Jul 2023)
 - Conducted comprehensive research to develop the script for a 360° video project, sourcing scarce information from YouTube and the internet.
 
 **Software Engineer Intern**  
-Magik Eye (Jun 2023 - Present)
+Magik Eye (Jun 2024 - Aug 2024)
 - Developed a Slingshot Projectile Game in Unity from scratch, implementing realistic physics-based projectile launching and collision detection.
 - Designed and implemented core gameplay mechanics, including slingshot control using mouse and keyboard inputs.
 - Created a dynamic UI to display score, distance, and other relevant game information, updating based on game events.
