@@ -69,7 +69,7 @@ I'm a developer passionate about immersive technologies—creating interactive A
 - 🚀 Astronomy Club Head (2018–2021)
 
 ---
-
+<!---
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -83,7 +83,7 @@ I'm a developer passionate about immersive technologies—creating interactive A
 </p>
 
 ---
-
+-->
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreykhetan1087)
