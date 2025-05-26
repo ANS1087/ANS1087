@@ -16,7 +16,7 @@
 I'm a developer passionate about immersive technologies—creating interactive AR/VR experiences, editing 360° video, and designing Unity games. I enjoy solving real-world problems through spatial computing and storytelling.
 
 - 🧪 [Published researcher in social media analysis (Innergram)](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003501244-54/innergram-social-media-analysis-platform-rout-khetan-ahkam-raghuvanshi-pargai-bhardwaj)
-- 🚀 Developer of immersive projects like [Chandraveer](https://github.com/ANS1087/Chandraveer), [Earth Unveiled VR](https://github.com/ANS1087/Earth-Unveiled-VR), and [Virtual Armory VR](https://github.com/ANS1087/Virtual-Armory-VR)
+- 🚀 Developer of immersive projects like [Chandraveer](https://github.com/Team-Brahmaand/Chandraveer), [Earth Unveiled VR](https://github.com/ANS1087/Earth-Unveiled-VR), and [Virtual Armory VR](https://github.com/ANS1087/Virtual-Armory-VR)
 - 🥽 Experienced in Unity3D, VR/AR, XR Toolkit, and Meta Quest development
 - 📹 360° Video Creator | Editor (Premiere Pro, Photoshop)
 - 👨‍🚀 Space & Astronomy geek (Gold medalist in NAC)
@@ -37,7 +37,7 @@ I'm a developer passionate about immersive technologies—creating interactive A
 | Project | Description |
 |--------|-------------|
 | [🌍 Earth Unveiled VR](https://github.com/ANS1087/Earth-Unveiled-VR) | Educational VR journey into Earth’s geology and structure |
-| [🛰 Chandraveer](https://github.com/ANS1087/Chandraveer) | VR simulation of Chandrayaan-3 mission with real-time celestial models |
+| [🛰 Chandraveer](https://github.com/Team-Brahmaand/Chandraveer) | VR simulation of Chandrayaan-3 mission with real-time celestial models |
 | [🛡 Virtual Armory VR](https://github.com/ANS1087/Virtual-Armory-VR) | Interactive VR weapons demo with gesture control & training feedback |
 | [🧱 Unity Essentials Demo](https://github.com/ANS1087/Unity-Essentials-Demo) | Beginner-friendly Unity projects covering essentials from Unity Learn |
 | [🎯 HitTheCan](https://github.com/ANS1087/HitTheCan_Unity) | Unity-based slingshot game with physics, depth sensor input, and gamepad emulation |
