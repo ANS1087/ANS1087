@@ -3,8 +3,10 @@
 
 <p align="center">
   <a href="https://github.com/ANS1087"><img src="https://img.shields.io/github/followers/ANS1087?label=Follow&style=social"></a>
-  <a href="https://www.linkedin.com/in/shreykhetan1087"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square"></a>
+  <a href="https://www.linkedin.com/in/shreykhetan"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat-square"></a>
   <a href="https://www.youtube.com/@shreykhetan1087"><img src="https://img.shields.io/badge/YouTube-Subscribe-red?logo=youtube&style=flat-square"></a>
+  <a href="https://instagram.com/pic_for_fun_shrey"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?logo=instagram&style=flat-square&logoColor=white"></a>
+  <a href="https://medium.com/@shreykhetan"><img src="https://img.shields.io/badge/Medium-Read-black?logo=medium&style=flat-square&logoColor=white"></a>
 </p>
 
 ---
@@ -14,62 +16,82 @@
 I'm a developer passionate about immersive technologies—creating interactive AR/VR experiences, editing 360° video, and designing Unity games. I enjoy solving real-world problems through spatial computing and storytelling.
 
 - 🧪 [Published researcher in social media analysis (Innergram)](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003501244-54/innergram-social-media-analysis-platform-rout-khetan-ahkam-raghuvanshi-pargai-bhardwaj)
-- 🎯 Developer of [Slingshot Projectile Game](https://github.com/ANS1087/HitTheCan_Unity)
-- 🥽 Experienced in AR/VR, Unity3D, and input emulation
+- 🚀 Developer of immersive projects like [Chandraveer](https://github.com/ANS1087/Chandraveer), [Earth Unveiled VR](https://github.com/ANS1087/Earth-Unveiled-VR), and [Virtual Armory VR](https://github.com/ANS1087/Virtual-Armory-VR)
+- 🥽 Experienced in Unity3D, VR/AR, XR Toolkit, and Meta Quest development
 - 📹 360° Video Creator | Editor (Premiere Pro, Photoshop)
 - 👨‍🚀 Space & Astronomy geek (Gold medalist in NAC)
 
 ---
 
 ### 🚀 Current Projects
-- Exploring full-body interaction using depth sensors in Unity
-- Creating VR-ready 360° content with interactive narratives
-- Growing my [YouTube Channel](https://www.youtube.com/@shreykhetan1087) – tutorials coming soon!
+
+- [**Chandraveer**](https://github.com/Team-Brahmaand/Chandraveer): A VR experience of India’s Chandrayaan-3 lunar mission built for the Waves XR Creator Hackathon (Top 40 in India). Features launch stages, lunar landing, and solar system exploration.
+- [**Earth Unveiled: A VR Experience**](https://github.com/ANS1087/Earth-Unveiled-VR): An immersive educational VR app explaining Earth’s layers, tectonic plates, and rock types. Built with Unity 6 & XR Toolkit for Meta Quest.
+- [**Virtual Armory VR**](https://github.com/ANS1087/Virtual-Armory-VR): A hand-tracked VR combat training zone featuring pistols, swords, shields, and physics-based dummy interactions.
+- [**Unity Essentials Demo**](https://github.com/ANS1087/Unity-Essentials-Demo): A complete walkthrough of Unity basics via the Unity Learn Essentials Pathway—covering 2D/3D, publishing, and scripting.
 
 ---
 
-### 🔨 Tech & Tools
+### 📂 Featured Projects (with description)
 
-![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF.svg?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white)
-![Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=adobepremierepro&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-### 📂 Featured Projects
 | Project | Description |
 |--------|-------------|
+| [🌍 Earth Unveiled VR](https://github.com/ANS1087/Earth-Unveiled-VR) | Educational VR journey into Earth’s geology and structure |
+| [🛰 Chandraveer](https://github.com/ANS1087/Chandraveer) | VR simulation of Chandrayaan-3 mission with real-time celestial models |
+| [🛡 Virtual Armory VR](https://github.com/ANS1087/Virtual-Armory-VR) | Interactive VR weapons demo with gesture control & training feedback |
+| [🧱 Unity Essentials Demo](https://github.com/ANS1087/Unity-Essentials-Demo) | Beginner-friendly Unity projects covering essentials from Unity Learn |
 | [🎯 HitTheCan](https://github.com/ANS1087/HitTheCan_Unity) | Unity-based slingshot game with physics, depth sensor input, and gamepad emulation |
-| [📊 Innergram](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003501244-54/innergram-social-media-analysis-platform-rout-khetan-ahkam-raghuvanshi-pargai-bhardwaj) | Research paper analyzing social media patterns |
-| 🥽 AR Unity 3D App | 2nd Prize @ Bennett Tech Showcase for innovative XR experience |
+
+<!-- 🧲 You can showcase the above projects as GitHub pinned repos too! Use GitHub’s pin feature on your profile -->
+
+---
+
+### 💼 Experience Summary
+
+- 🧑‍💻 **Software Engineer Intern** @ Magik Eye  
+  Developed [HitTheCan Unity Game](https://github.com/ANS1087/HitTheCan_Unity) with multi-input support, trajectory prediction, and score tracking.
+
+- 🥽 **AR/VR + 360° Intern** @ Hyper Reality Studio  
+  Edited immersive 360° videos and debugged Unity-based AR projects.
+
+- 🏆 **Hackathon**: Ranked in **Top 40 nationally** in the Waves XR Creator Hackathon 2024-25 for *Chandraveer*.
 
 ---
 
 ### 🧪 Certifications
-- 🥽 Extended Reality for Everybody – University of Michigan  
-- 🎥 VR & 360° Video Production  
-- 🛠️ Simulation & Modeling of Natural Processes – Univ. of Geneva  
-- 🕹️ ARCore & Unity Development (with Honors)
+
+- Extended Reality for Everybody – University of Michigan  
+- VR & 360° Video Production  
+- Simulation & Modeling of Natural Processes – Univ. of Geneva  
+- User Experience & Design for XR – (With Honors)  
+- ARCore Development – Coursera (With Honors)
 
 ---
 
-### 🏆 Awards & Roles
-- 🥈 2nd Prize – Tech Showcase @ Bennett University (2022)
-- 🥇 Gold Medal – National Astronomy Challenge (2017)
-- 🎓 Chairperson – AltReality (AR/VR) Club
-- 🌱 NSS Organizer (Blood drives, Plantation, Cleanliness)
-- 🚀 Astronomy Club Head (2018–2021)
+### 🏅 Awards & Roles
+
+- 🥈 2nd Prize – Tech Showcase @ Bennett University  
+- 🥇 Gold Medal – National Astronomy Challenge  
+- 🎓 Chairperson – AltReality (AR/VR) Club  
+- 🌱 NSS Organizer (Plantation, Cleanliness, Blood Donation Drives)  
+- 🚀 Head – Astronomy Club (2018–2021)
 
 ---
-<!---
+
+### 🛠 Tech Stack
+
+**Languages & Scripting**  
+`C#`, `Python`, `HTML`, `CSS`, `JavaScript`, `Kotlin`, `PHP`, `MySQL`
+
+**Tools & Platforms**  
+`Unity3D`, `XR Interaction Toolkit`, `Git`, `Jira`, `Bitbucket`
+
+**VR/AR & Content Creation**  
+`Meta Quest`, `Adobe Premiere Pro`, `Photoshop`, `Figma`, `360° Video Editing`
+
+---
+
+<!--
 ### 📈 GitHub Stats
 
 <p align="center">
@@ -81,17 +103,9 @@ I'm a developer passionate about immersive technologies—creating interactive A
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ANS1087&theme=tokyonight&no-frame=true&column=4&margin-w=10" />
 </p>
-
 ---
 -->
-### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/shreykhetan1087)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/ANS1087)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pic_for_fun_shrey)
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shreykhetan)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@shreykhetan1087)
 
----
 
 <p align="center"><i>"Reality is broken. Let's build a better one—with Unity, XR, and imagination."</i></p>
