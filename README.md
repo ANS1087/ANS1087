@@ -36,7 +36,7 @@ I'm a developer passionate about immersive technologies—creating interactive A
 
 | Project | Description |
 |--------|-------------|
-| [🧊 Cube Drop Multiplayer](https://github.com/ANS1087/CubeDrop) | Unity multiplayer mini-game using Netcode where players drop colored cubes into a goal box based on randomized objectives |
+| [🧊 Cube Drop](https://github.com/ANS1087/CubeDrop) | Unity multiplayer mini-game using Netcode where players drop colored cubes into a goal box based on randomized objectives |
 | [🌍 Earth Unveiled VR](https://github.com/ANS1087/Earth-Unveiled-VR) | Educational VR journey into Earth’s geology and structure |
 | [🛰 Chandraveer](https://github.com/Team-Brahmaand/Chandraveer) | VR simulation of Chandrayaan-3 mission with real-time celestial models |
 | [🛡 Virtual Armory VR](https://github.com/ANS1087/Virtual-Armory-VR) | Interactive VR weapons demo with gesture control & training feedback |
